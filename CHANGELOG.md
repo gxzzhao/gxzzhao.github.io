@@ -1,4 +1,8 @@
 # CHANGLELOG.md
+
+## [0.0.1] - 2022-11-26
+- initial repo; updated contact info
+
 ## [1.0.0] 2023-12-23
 ### Added
 - iPolicy paper on home page
@@ -7,3 +11,7 @@
 ### Revised
 - affiliation
 - cv.pdf
+
+## [1.0.1]  2023-12-23
+### Fixed
+- update README.md
