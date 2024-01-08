@@ -19,3 +19,7 @@
 ## [1.0.2]  2023-12-23
 ### Removed
 - remove Laboratory link on nav bar
+
+## [1.0.3] 2024-01-08
+### Added
+- add arxiv link to iPolicy
