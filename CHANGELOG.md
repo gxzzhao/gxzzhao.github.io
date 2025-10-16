@@ -29,3 +29,7 @@
 - four recently published and accepted conference papers
 ### Revised
 - move iPolicy to working papers
+
+## [1.0.5] 2025-10-17
+### Revised
+- correct typo, LLM-DiSC nominated for best paper
