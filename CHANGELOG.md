@@ -23,3 +23,9 @@
 ## [1.0.3] 2024-01-08
 ### Added
 - add arxiv link to iPolicy
+
+## [1.0.4] 2025-10-17
+### Added
+- four recently published and accepted conference papers
+### Revised
+- move iPolicy to working papers
