@@ -33,3 +33,12 @@
 ## [1.0.5] 2025-10-17
 ### Revised
 - correct typo, LLM-DiSC nominated for best paper
+
+## [1.1.0] 2026-09-25
+### Added
+- TASE paper to appear
+### Revised
+- correct "nominated" to "finalist"
+- update TERL and LLM-DiSC publication info and link
+- update corresponding author notation
+- change "Conference Papers" to "Selected Conference Papers"
