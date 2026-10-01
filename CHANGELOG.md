@@ -42,3 +42,9 @@
 - update TERL and LLM-DiSC publication info and link
 - update corresponding author notation
 - change "Conference Papers" to "Selected Conference Papers"
+
+## [1.1.1] 2026-10-01
+### Added
+- TASE paper link
+### Revised
+- change TASE status from "To Appear" to "Early Access"
