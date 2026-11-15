@@ -48,3 +48,9 @@
 - TASE paper link
 ### Revised
 - change TASE status from "To Appear" to "Early Access"
+
+## [1.2.0] 2026-11-15
+### Added
+- RAL paper early access
+### Revised
+- update TASE paper status with volume and page info
